@@ -1,0 +1,6 @@
+{
+  "name": "DFT-HEROS",
+  "description": "Tournament and team management application with Google/Email sign-in, groups, team registration, match schedules, points tables, and group chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
